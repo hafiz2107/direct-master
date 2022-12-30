@@ -1,6 +1,3 @@
-[submodule "apps1"]
-	path = apps1
-	url = https://github.com/hafiz2107/influencer
 [submodule "apps/influencer"]
 	path = apps/influencer
 	url = https://github.com/hafiz2107/influencer
